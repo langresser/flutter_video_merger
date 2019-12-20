@@ -1,4 +1,4 @@
-package com.example.flutter_video_cache_merger
+package com.syyx.flutter_video_merger
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
