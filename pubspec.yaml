@@ -33,7 +33,9 @@ dependencies:
   #  json_annotation: ^2.4.0
   dio: ^3.0.1
   dio_cookie_manager: ^1.0.0
+  connectivity: ^0.4.6
   cookie_jar: ^1.0.0
+  device_info: ^0.4.1
   shared_preferences: ^0.5.3+5
   # 本地json对象存储
   localstorage: ^2.0.0
@@ -51,7 +53,7 @@ dependencies:
   flutter_markdown: ^0.2.0
   flare_flutter: ^1.5.9
 
-  # url_launcher: ^5.4.1 #启动第三方app
+  url_launcher: ^5.4.1 #启动第三方app
   
 dev_dependencies:
   flutter_test:
